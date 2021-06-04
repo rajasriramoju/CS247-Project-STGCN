@@ -4,13 +4,15 @@
 
 ### STGCN 
 
-```cd STGCN
+```
+   cd STGCN
    python3 main.py
 ```
 
 ### GMAN 
 
-```cd GMAN/PeMs/
+```
+  cd GMAN/PeMs/
   python3 train.py
   python3 test.py
 ```
