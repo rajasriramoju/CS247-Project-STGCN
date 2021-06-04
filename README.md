@@ -26,3 +26,8 @@ The data files required for this project can be downloaded from:
    This needs to be downloaded into the home directory
 3. GMAN data from: https://drive.google.com/drive/folders/1N4xfWaUvqy2mPEPK8_OpIt9l7wCIINLx?usp=sharing  
    This needs to be downloaded into CS247-Project-STGCN/GMAN/PeMs/data
+
+## References
+This repo contains code from:
+https://github.com/zhengchuanpan/GMAN  
+https://github.com/Davidham3/STSGCN
