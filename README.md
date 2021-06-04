@@ -1,6 +1,9 @@
 # CS247-Project-STGCN
 
-Dataset downlooad:
+## Execution instructions
+
+
+## Dataset downlooad
 
 The data files required for this project can be downloaded from:
 
